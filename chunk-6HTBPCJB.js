@@ -1,0 +1,1 @@
+var s={production:!0,supabaseUrl:"https://felkaknjzpagffpsuytk.supabase.co",supabaseAnonKey:"sb_publishable_gS5pdSeNE8QRLV2uMp1HwA_a98Bgv8f",sentryDsn:"https://4bc39ab989cbe9a038a79cca37864fdc@o4512147879297024.ingest.us.sentry.io/4512147946209280"};export{s as a};

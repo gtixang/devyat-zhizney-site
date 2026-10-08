@@ -1,0 +1,1 @@
+import{a}from"./chunk-TWTTNM6T.js";import"./chunk-EW3FN23R.js";import"./chunk-LVZOAYTO.js";import"./chunk-VUYDCV3L.js";import"./chunk-6HTBPCJB.js";import{Z as t,u as r}from"./chunk-ICRXKPQ3.js";var i=async()=>{let o=t(a);return(await r(o.getCurrent()))?.role==="admin"};export{i as adminRoleGuard};

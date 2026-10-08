@@ -1,0 +1,1 @@
+import{ma as r}from"./chunk-ICRXKPQ3.js";var c=2e3;function s(i){let e=r("idle"),t;return i.onDestroy(()=>clearTimeout(t)),{feedback:e.asReadonly(),copy(d){clearTimeout(t);let o=()=>{t=setTimeout(()=>e.set("idle"),c)};navigator.clipboard.writeText(d).then(()=>{e.set("copied"),o()}).catch(()=>{e.set("error"),o()})}}}export{s as a};
